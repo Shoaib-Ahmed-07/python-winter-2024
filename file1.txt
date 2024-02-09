@@ -1,1 +1,4 @@
 This is the first line added to the file1.txt
+
+This is the second line which is added after making the second branch and making changes for it
+:wq
